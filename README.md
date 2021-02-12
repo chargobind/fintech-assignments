@@ -15,7 +15,7 @@
 This assignment (case study) focuses on the Mortgage/Real Estate sector of Fintech. It will explore how Divvy Homes is becoming a driving force within this domain. This case study will outline four major sections including the Business Activities, Landscape, Results, and Recommendations for Divvy Homes. Business Activities will introduce how Divvy Homes is attempting to disrupt the Mortgage industry; Landscape will investigate a micro-view understanding of the positioning of Divvy Homes within the Fintech Industry; Results will focus on the impact Divvy Homes has in the particular domain of Fintech it is establishing itself within; and finally, personal recommendations that will suggest a few ideas as to how Divvy Homes can better develop its infrastructure and services.  
 
 ## Overview and Origin
-![Divvy Homes](file:///Users/charleshargobind/Desktop/Divvy.png)
+![Divvy Homes](./file:///Users/charleshargobind/Desktop/Divvy.png)
 > Founded: 2017
 > Founders: Adena Heftes, Brian Ma, Nick Clark, Alex Klarfel
 > Insight: Adena Heftes has a goal to help everyone own a home of their own someday so that they can live the American Dream regardless of their financial history. 
