@@ -15,7 +15,7 @@
 This assignment (case study) focuses on the Mortgage/Real Estate sector of Fintech. It will explore how Divvy Homes is becoming a driving force within this domain. This case study will outline four major sections including the Business Activities, Landscape, Results, and Recommendations for Divvy Homes. Business Activities will introduce how Divvy Homes is attempting to disrupt the Mortgage industry; Landscape will investigate a micro-view understanding of the positioning of Divvy Homes within the Fintech Industry; Results will focus on the impact Divvy Homes has in the particular domain of Fintech it is establishing itself within; and finally, personal recommendations that will suggest a few ideas as to how Divvy Homes can better develop its infrastructure and services.  
 
 ## Overview and Origin
-![Divvy Homes](./User/Desktop/Divvy)
+![Divvy Homes](file:///Users/charleshargobind/Desktop/Divvy.png)
 > Founded: 2017
 > Founders: Adena Heftes, Brian Ma, Nick Clark, Alex Klarfel
 > Insight: Adena Heftes has a goal to help everyone own a home of their own someday so that they can live the American Dream regardless of their financial history. 
@@ -54,7 +54,7 @@ This assignment (case study) focuses on the Mortgage/Real Estate sector of Finte
 
 > A Virtual Reality studio and/or database can be used to allow customers the experience of walking-through potential homes from the comfort of their living room or a designated retail location in which host branded Divvy real-estate agents to provide services to potential customers. The technologies required for such an idea would be minimal as it would simply need a programmer who can develop such a database using languages such as C/C++, a hiring process of real estate agents, and obtaining a retail location within a mall and/or similar location. If Divvy was to adapt this idea they can advertise its new VR feature through a Home Lottery (this can be done annually as well), A home lottery give-away would replicate current similar home lotteries such as the Princess Margaret Home Lottery. This would require some overhead cost and attention of Divvy's marketing team, but would reap rewards long-term with cost-efficient measures. An additional feature that can be used in collaboration with the Home Lottery recommendation would be customer personality tests. By having customers engage in an optional personality test they will begin to learn more about their clientele and gamify the house buying experience through the recommendations of properties that best suit various personality preferences, traits, and values. Such an additional feature to Divvy Homes would require the technologies of AI, Machine Learning, and Big Data. 
 
-In summation, Divvy Homes appears to be a driving force within the PropTech Domain. If they continue their momentum I believe they can reach a global scale and mimic the influence Uber has on the transportation industry but within Real Estate.
+> In summation, Divvy Homes appears to be a driving force within the PropTech Domain. If they continue their momentum I believe they can reach a global scale and mimic the influence Uber has on the transportation industry but within Real Estate.
 
 ## Bibliography
 * https://techcrunch.com/2019/09/25/fractional-home-ownership-startup-divvy-raises-43m-series-b-to-build-a-path-from-rent-to-purchase/
