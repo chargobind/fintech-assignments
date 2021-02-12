@@ -17,8 +17,11 @@ This assignment (case study) focuses on the Mortgage/Real Estate sector of Finte
 ## Overview and Origin
 ![Divvy Homes](./file:///Users/charleshargobind/Desktop/Divvy.png)
 > Founded: 2017
+
 > Founders: Adena Heftes, Brian Ma, Nick Clark, Alex Klarfel
+
 > Insight: Adena Heftes has a goal to help everyone own a home of their own someday so that they can live the American Dream regardless of their financial history. 
+
 > Funding: Divvy Homes is currently in Series C funding. To date they have received a total of 290 Million USD.  
 
 
