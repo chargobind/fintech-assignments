@@ -1,5 +1,5 @@
 # Case Study: Divvy Homes
-> Prepared For: Felipe Andrade
+> Prepared For: Felipe Andrade |
 > Prepared By: Charles Hargobind
 
 ## Table of contents
